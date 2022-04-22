@@ -1,4 +1,4 @@
-<!-- Faça um  programa  que  receba  leia  um  inteiro  entre  1  e  7  e  imprima  o  dia  da  semana correspondente a este número. Istoe, domingo se 1, segunda-feira se 2, e assim por diante. -->
+
 
 <?php
 
